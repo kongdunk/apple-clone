@@ -2,4 +2,4 @@
 
 Clone of apple.com using HTML & CSS in 2023
 
-![Screenshot](appleScreenshot.png)
+![Screenshot](https://github.com/kongdunk/apple-clone/blob/master/appleScreenshot.jpg?raw=true)
