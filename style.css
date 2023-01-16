@@ -20,6 +20,8 @@ nav {
 .navbarIcon {
     width: 1rem;
 }
+ 
+/*  section one */
 
 .sectionOne {
     background-color: #000000;
@@ -42,9 +44,36 @@ nav {
     font-family: 'Source Sans Pro', sans-serif;
 }
 
+/* end of section one */
+
+/* start of section two */
+.sectionTwo {
+    margin-top: 3rem;
+    background-color:#fbfbfd
+}
+
+.sectionTwoText {
+    color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.sectionTwoImage {
+    width: 26rem;
+}
+
+.sectionTwoImageSection {
+    display: flex;
+    justify-content: center;
+}
+
+/* end of section two */
 
 button {
-    background-color:#000000 ;
+    background-color: transparent;
+    border: none;
     line-height: 0rem;
     color: #2997FF;
     font-size: 1.3rem;
