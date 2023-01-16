@@ -4,9 +4,60 @@
     display: flex;
     justify-content: space-around;
     list-style-type: none;
+    color: white;
+    font-size: 0.8rem;
+    padding-left: 10rem;
+    padding-right:10rem;
     font-family: 'Source Sans Pro', sans-serif;
+}
+
+nav {
+    background-color: #000000;
+    padding: 1rem;
+    padding-top: 0.3rem;
 }
 
 .navbarIcon {
     width: 1rem;
 }
+
+.sectionOne {
+    background-color: #000000;
+}
+
+.sectionOneImageSection {
+    display: flex;
+    justify-content: center;
+}
+
+.sectionOneImage {
+    width: 37rem;
+}
+
+.sectionOneText {
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+
+button {
+    background-color:#000000 ;
+    line-height: 0rem;
+    color: #2997FF;
+    font-size: 1.3rem;
+    
+}
+
+h1 {
+    line-height: 0rem;
+    font-size: 3.8rem;
+}
+
+h2 {
+    line-height: 0rem;
+    font-size: 2rem;
+}
+
